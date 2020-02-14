@@ -1,0 +1,30 @@
+
+	            G L O B A L   R E F E R E N C E S
+
+	             Name               Value        Type
+	==============================|=======|===============
+	SP_INICIAL                       FDFF         CONSTANT
+	JANELA                           FFFE         CONSTANT
+	SPC                              000A         CONSTANT
+	MASCARA                          8016         CONSTANT
+	NINICIAL                         3453         CONSTANT
+	FINAL                            8000            TABLE
+	Inicio                           0005            LABEL
+	Teste                            0020            LABEL
+	FIM                              0040            LABEL
+	Xis                              0041            LABEL
+	NEXT_X2                          0052            LABEL
+	NEXT_X3                          0063            LABEL
+	NEXT_X4                          0074            LABEL
+	Inicio3                          0085            LABEL
+	CicloBola                        0088            LABEL
+	Primeiro                         008E            LABEL
+	Num1                             0093            LABEL
+	Num2                             009E            LABEL
+	Num3                             00A9            LABEL
+	Num4                             00B4            LABEL
+	Fim_Ciclo                        00C0            LABEL
+	Random                           00E8            LABEL
+	Bit0                             00ED            LABEL
+	Bit1                             00EF            LABEL
+	Final_R                          00F3            LABEL
